@@ -1,0 +1,9 @@
+void main() { 
+   print(num.parse('12')); 
+   print(num.parse('10.91')); 
+}
+
+output:
+
+12 
+10.91
